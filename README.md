@@ -17,7 +17,7 @@ Jekyll 需要依赖：Ruby、bundler
 > $ git clone https://github.com/boysfight/boysfight.github.io.git
 
 
-进leopardpan.github.io/ 目录下， 开启本地服务 
+进boysfight.github.io./ 目录下， 开启本地服务 
 
 > $ jekyll server
 
